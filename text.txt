@@ -1,0 +1,6 @@
+Color green
+Name ash
+Age 25
+Id u1910223
+nation army
+name dddddy
